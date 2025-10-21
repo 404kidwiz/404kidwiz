@@ -21,10 +21,13 @@ I'm passionate about building innovative solutions and exploring the intersectio
 - ⚡ Fun fact: I believe good code is like a good joke – it needs no explanation
 ---
 ## 🛠️ Tech Stack
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+*Currently building a text app with TypeScript to showcase modern web development practices.*
 ---
 ## 📫 Let's Connect
 - 💼 **LinkedIn**: [andrew-m-6a783091](https://www.linkedin.com/in/andrew-m-6a783091/)
