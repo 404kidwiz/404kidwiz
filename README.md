@@ -10,10 +10,15 @@ I'm passionate about building innovative solutions and exploring the intersectio
 
 ### 🌟 Featured Projects
 
+- **[TACO-BELL-DRIVE-THRU](https://github.com/404kidwiz/TACO-BELL-DRIVE-THRU)** - Intelligent drive-thru ordering system
+  - Streamlined customer ordering experience with voice recognition
+  - Reduced order processing time by automating menu navigation
+  - Enhanced operational efficiency through real-time order tracking
+
 - **[claude-agents-universal](https://github.com/404kidwiz/claude-agents-universal)** - Universal agent framework for Claude AI integration
   - Building scalable agent architectures
   - Exploring autonomous AI capabilities
-  
+
 *Check out my repositories below for more projects!*
 
 ---
