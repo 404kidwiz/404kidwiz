@@ -39,8 +39,8 @@ I'm passionate about building innovative solutions and exploring the intersectio
 
 ## 📫 Let's Connect
 
-- 💼 **LinkedIn**: [your-linkedin-profile](https://linkedin.com/in/your-profile)
-- 📧 **Email**: your.email@example.com
+- 💼 **LinkedIn**: [your-linkedin-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/andrew-m-6a783091/)
+- 📧 **Email**: awmorris83@gmail.com
 - 🌐 **Portfolio**: [your-website.com](https://your-website.com)
 
 ---
