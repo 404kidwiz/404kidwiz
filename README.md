@@ -1,4 +1,4 @@
-# 👋 Hi, I'm 404kidwiz
+# 👋 Hi, I'm Andrew (404KidWiz)
 
 ## 🚀 Software Developer | AI Enthusiast | Open Source Contributor
 
