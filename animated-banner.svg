@@ -135,14 +135,7 @@
   <circle class="circle-ring" cx="300" cy="200" r="110" fill="none" stroke="#00D9FF" stroke-width="3" opacity="0.7"/>
   
   <!-- Profile image placeholder (you'll replace this URL with your uploaded image) -->
-    <!-- Profile image -->
-  <image href="picture_under_1mb.jpg" x="210" y="110" width="180" height="180" clip-path="url(#circleClip)"/><!-- To add your image, replace the above circle and text with: -->  
-  <!-- Decorative dots around circle -->
-  <circle class="dot" cx="300" cy="80" r="6" fill="#00D9FF"/>
-  <circle class="dot2" cx="410" cy="200" r="6" fill="#00D9FF"/>
-  <circle class="dot3" cx="300" cy="320" r="6" fill="#00D9FF"/>
-  <circle class="dot" cx="190" cy="200" r="6" fill="#00D9FF"/>
-  
+    <image href="https://avatars.githubusercontent.com/u/58947001?v=4" x="210" y="110" width="180" height="180" clip-path="url(#circleClip)"/>  <!-- Decorative dots around circle -->
   <!-- Connection line from circle to text -->
   <line x1="420" y1="200" x2="480" y2="200" stroke="#00D9FF" stroke-width="3" opacity="0.8"/>
   
