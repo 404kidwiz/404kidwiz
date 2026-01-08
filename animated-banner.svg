@@ -136,11 +136,7 @@
   
   <!-- Profile image placeholder (you'll replace this URL with your uploaded image) -->
     <!-- Profile image -->
-  <image href="assets/profile-photo.jpg" x="210" y="110" width="180" height="180" clip-path="url(#circleClip)"/><!-- To add your image, replace the above circle and text with: -->
-  
-  <!-- Inner circle border -->
-  <circle cx="300" cy="200" r="90" fill="none" stroke="#00D9FF" stroke-width="2" opacity="0.5"/>
-  
+  <image href="picture_under_1mb.jpg" x="210" y="110" width="180" height="180" clip-path="url(#circleClip)"/><!-- To add your image, replace the above circle and text with: -->  
   <!-- Decorative dots around circle -->
   <circle class="dot" cx="300" cy="80" r="6" fill="#00D9FF"/>
   <circle class="dot2" cx="410" cy="200" r="6" fill="#00D9FF"/>
