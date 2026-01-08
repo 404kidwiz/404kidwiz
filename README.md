@@ -107,7 +107,7 @@ Currently, I'm building **WizPrompt Pro**, a production-ready AI-powered SaaS pl
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=404kidwiz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=404kidwiz&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9&dates=8B949E)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=404kidwiz&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9&dates=8B949E)
 
 </div>
 
