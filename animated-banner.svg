@@ -1,0 +1,191 @@
+<svg width="1200" height="400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <!-- Animated gradient for text -->
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF;stop-opacity:1">
+        <animate attributeName="stop-color" values="#00D9FF; #00FFD9; #0099FF; #00D9FF" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:#00FFD9;stop-opacity:1">
+        <animate attributeName="stop-color" values="#00FFD9; #0099FF; #00D9FF; #00FFD9" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#0099FF;stop-opacity:1">
+        <animate attributeName="stop-color" values="#0099FF; #00D9FF; #00FFD9; #0099FF" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    
+    <!-- Radial gradient for glow effect -->
+    <radialGradient id="glowGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#00D9FF;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#00D9FF;stop-opacity:0"/>
+    </radialGradient>
+    
+    <!-- Clip path for circular profile image -->
+    <clipPath id="circleClip">
+      <circle cx="300" cy="200" r="90"/>
+    </clipPath>
+    
+    <style>
+      .title {
+        font-family: 'Arial Black', 'Arial Bold', Gadget, sans-serif;
+        font-size: 58px;
+        font-weight: 900;
+        fill: url(#textGradient);
+        letter-spacing: 2px;
+      }
+      
+      .subtitle {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 20px;
+        fill: #00D9FF;
+        letter-spacing: 3px;
+        font-weight: bold;
+      }
+      
+      .circle-ring {
+        animation: pulse 3s ease-in-out infinite;
+      }
+      
+      .outer-ring {
+        animation: pulse 3s ease-in-out infinite 0.5s;
+      }
+      
+      .line1 {
+        animation: drawLine 4s ease-in-out infinite;
+      }
+      
+      .line2 {
+        animation: drawLine 4s ease-in-out infinite 0.5s;
+      }
+      
+      .line3 {
+        animation: drawLine 4s ease-in-out infinite 1s;
+      }
+      
+      .dot {
+        animation: blink 2s ease-in-out infinite;
+      }
+      
+      .dot2 {
+        animation: blink 2s ease-in-out infinite 0.7s;
+      }
+      
+      .dot3 {
+        animation: blink 2s ease-in-out infinite 1.4s;
+      }
+      
+      .glow {
+        animation: glow 3s ease-in-out infinite;
+      }
+      
+      @keyframes pulse {
+        0%, 100% { 
+          opacity: 0.6; 
+          transform: scale(1);
+        }
+        50% { 
+          opacity: 1; 
+          transform: scale(1.03);
+        }
+      }
+      
+      @keyframes drawLine {
+        0%, 100% { 
+          stroke-dashoffset: 0;
+          opacity: 0.8;
+        }
+        50% { 
+          stroke-dashoffset: 400;
+          opacity: 1;
+        }
+      }
+      
+      @keyframes blink {
+        0%, 100% { 
+          opacity: 0.3;
+          transform: scale(1);
+        }
+        50% { 
+          opacity: 1;
+          transform: scale(1.2);
+        }
+      }
+      
+      @keyframes glow {
+        0%, 100% { 
+          opacity: 0.3;
+        }
+        50% { 
+          opacity: 0.6;
+        }
+      }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="400" fill="#0D1117"/>
+  
+  <!-- Animated glow behind profile circle -->
+  <circle class="glow" cx="300" cy="200" r="140" fill="url(#glowGradient)" opacity="0.3"/>
+  
+  <!-- Outer animated ring -->
+  <circle class="outer-ring" cx="300" cy="200" r="130" fill="none" stroke="#00D9FF" stroke-width="2" opacity="0.4"/>
+  
+  <!-- Main animated ring -->
+  <circle class="circle-ring" cx="300" cy="200" r="110" fill="none" stroke="#00D9FF" stroke-width="3" opacity="0.7"/>
+  
+  <!-- Profile image placeholder (you'll replace this URL with your uploaded image) -->
+  <circle cx="300" cy="200" r="90" fill="#1a1a2e"/>
+  <text x="300" y="210" font-family="Arial" font-size="16" fill="#00D9FF" text-anchor="middle">
+    [Your Photo Here]
+  </text>
+  <!-- To add your image, replace the above circle and text with: -->
+  <!-- <image href="YOUR_IMAGE_URL" x="210" y="110" width="180" height="180" clip-path="url(#circleClip)"/> -->
+  
+  <!-- Inner circle border -->
+  <circle cx="300" cy="200" r="90" fill="none" stroke="#00D9FF" stroke-width="2" opacity="0.5"/>
+  
+  <!-- Decorative dots around circle -->
+  <circle class="dot" cx="300" cy="80" r="6" fill="#00D9FF"/>
+  <circle class="dot2" cx="410" cy="200" r="6" fill="#00D9FF"/>
+  <circle class="dot3" cx="300" cy="320" r="6" fill="#00D9FF"/>
+  <circle class="dot" cx="190" cy="200" r="6" fill="#00D9FF"/>
+  
+  <!-- Connection line from circle to text -->
+  <line x1="420" y1="200" x2="480" y2="200" stroke="#00D9FF" stroke-width="3" opacity="0.8"/>
+  
+  <!-- Animated decorative lines -->
+  <line class="line1" x1="500" y1="150" x2="800" y2="150" stroke="#00D9FF" stroke-width="4" 
+        stroke-dasharray="300" stroke-dashoffset="0" stroke-linecap="round"/>
+  <line class="line2" x1="500" y1="250" x2="750" y2="250" stroke="#00D9FF" stroke-width="3" 
+        stroke-dasharray="250" stroke-dashoffset="0" stroke-linecap="round"/>
+  <line class="line3" x1="820" y1="155" x2="1050" y2="155" stroke="#00D9FF" stroke-width="3" 
+        stroke-dasharray="230" stroke-dashoffset="0" stroke-linecap="round"/>
+  
+  <!-- Corner accent lines -->
+  <polyline points="650,200 680,200 680,230" fill="none" stroke="#00D9FF" stroke-width="2" opacity="0.6"/>
+  <polyline points="750,270 780,270 780,240" fill="none" stroke="#00D9FF" stroke-width="2" opacity="0.6"/>
+  
+  <!-- Vertical accent bars -->
+  <rect x="1010" y="160" width="3" height="30" fill="#00D9FF" opacity="0.6"/>
+  <rect x="1020" y="155" width="3" height="40" fill="#00D9FF" opacity="0.7"/>
+  <rect x="1030" y="150" width="3" height="50" fill="#00D9FF" opacity="0.6"/>
+  <rect x="1040" y="145" width="3" height="60" fill="#00D9FF" opacity="0.5"/>
+  <rect x="1050" y="160" width="3" height="30" fill="#00D9FF" opacity="0.4"/>
+  
+  <!-- Additional decorative dots -->
+  <circle class="dot2" cx="1070" cy="165" r="8" fill="#00D9FF"/>
+  <circle class="dot3" cx="480" cy="180" r="5" fill="#00FFD9"/>
+  
+  <!-- Main Title Text -->
+  <text class="title" x="520" y="185">
+    DA WIZKID 404
+  </text>
+  
+  <!-- Subtitle Text -->
+  <text class="subtitle" x="520" y="220">
+    ANDREW MORRIS | AI ENGINEER
+  </text>
+  
+  <!-- Small accent line under subtitle -->
+  <line x1="520" y1="230" x2="920" y2="230" stroke="#00D9FF" stroke-width="1" opacity="0.4"/>
+</svg>
