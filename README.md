@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="animated-banner.svg" alt="DA WIZKID 404 - Andrew Morris | AI Engineer" width="100%"/>
-</div>
-
 
 ## 👋 Let's Connect!
 
