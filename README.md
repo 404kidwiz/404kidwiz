@@ -1,3 +1,19 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,24&height=200&section=header&text=DA%20WIZKID%20404&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=ANDREW%20MORRIS%20%7C%20AI%20ENGINEER&descAlignY=52&descSize=20" width="100%"/>
+</div>
+
+## 💫 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-morris-ai-engineer/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/404kidwiz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awmorris83@gmail.com)
+
+</div>
+
+---
+
 # 👋 Hi, I'm Andrew (404KidWiz)
 ## 🚀 Software Developer | AI Enthusiast | Open Source Contributor
 I'm passionate about building innovative solutions and exploring the intersection of software development and artificial intelligence. I love working on projects that push the boundaries of what's possible with modern technology.
