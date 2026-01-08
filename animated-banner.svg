@@ -1,3 +1,4 @@
+
 <svg width="1200" height="400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <!-- Animated gradient for text -->
@@ -134,12 +135,8 @@
   <circle class="circle-ring" cx="300" cy="200" r="110" fill="none" stroke="#00D9FF" stroke-width="3" opacity="0.7"/>
   
   <!-- Profile image placeholder (you'll replace this URL with your uploaded image) -->
-  <circle cx="300" cy="200" r="90" fill="#1a1a2e"/>
-  <text x="300" y="210" font-family="Arial" font-size="16" fill="#00D9FF" text-anchor="middle">
-    [Your Photo Here]
-  </text>
-  <!-- To add your image, replace the above circle and text with: -->
-  <!-- <image href="YOUR_IMAGE_URL" x="210" y="110" width="180" height="180" clip-path="url(#circleClip)"/> -->
+    <!-- Profile image -->
+  <image href="assets/profile-photo.jpg" x="210" y="110" width="180" height="180" clip-path="url(#circleClip)"/><!-- To add your image, replace the above circle and text with: -->
   
   <!-- Inner circle border -->
   <circle cx="300" cy="200" r="90" fill="none" stroke="#00D9FF" stroke-width="2" opacity="0.5"/>
