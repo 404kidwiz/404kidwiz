@@ -36,7 +36,7 @@ Currently, I'm building **WizPrompt Pro**, a production-ready AI-powered SaaS pl
   - Building scalable agent architectures
   - Exploring autonomous AI capabilities
   
-- **WizPrompt Pro** - AI-Powered SaaS Platform (Production)
+- **[WizPrompt Pro](https://wizprompt.pro/)** - AI-Powered SaaS Platform (Production)
   - Multi-agent systems orchestration
   - LangGraph, CrewAI, and AutoGen integration
   - Advanced prompt engineering capabilities
