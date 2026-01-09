@@ -27,19 +27,19 @@ Currently, I'm building **WizPrompt Pro**, a production-ready AI-powered SaaS pl
 
 ### ⭐ Featured Projects
 
-- **[TACO-BELL-DRIVE-THRU](https://taco.404kidwiz.cloud/)** - Intelligent drive-thru ordering system
-  - Streamlined customer ordering experience with voice recognition
-  - Reduced order processing time by automating menu navigation
-  - Enhanced operational efficiency through real-time order tracking
-
-- **[claude-agents-universal](https://github.com/404kidwiz/claude-agents-universal)** - Universal agent framework for Claude AI integration
-  - Building scalable agent architectures
-  - Exploring autonomous AI capabilities
-  
-- **[WizPrompt Pro](https://wizprompt.pro/)** - AI-Powered SaaS Platform (Production)
+-- **[WizPrompt Pro](https://wizprompt.pro/)** - AI-Powered SaaS Platform (Production)
   - Multi-agent systems orchestration
   - LangGraph, CrewAI, and AutoGen integration
   - Advanced prompt engineering capabilities
+
+  - -- **[TACO-BELL-DRIVE-THRU](https://taco.404kidwiz.cloud/)** - Intelligent drive-thru ordering system
+   - Streamlined customer ordering experience with voice recognition
+   - Reduced order processing time by automating menu navigation
+   - Enhanced operational efficiency through real-time order tracking
+
+-- **[claude-agents-universal](https://github.com/404kidwiz/claude-agents-universal)** - Universal agent framework for Claude AI integration
+   - Building scalable agent architectures
+   - Exploring autonomous AI capabilities
 
 *Check out my repositories below for more projects!*
 
@@ -169,3 +169,12 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,24&height=100&section=footer" width="100%"/>
 </div>
+ **[TACO-BELL-DRIVE-THRU](https://taco.404kidwiz.cloud/)** - Intelligent drive-thru ordering system
+  - Streamlined customer ordering experience with voice recognition
+  - Reduced order processing time by automating menu navigation
+  - Enhanced operational efficiency through real-time order tracking
+
+- **[claude-agents-universal](https://github.com/404kidwiz/claude-agents-universal)** - Universal agent framework for Claude AI integration
+  - Building scalable agent architectures
+  - Exploring autonomous AI capabilities
+  
