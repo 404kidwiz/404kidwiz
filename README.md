@@ -27,7 +27,7 @@ Currently, I'm building **WizPrompt Pro**, a production-ready AI-powered SaaS pl
 
 ### ⭐ Featured Projects
 
-- **[TACO-BELL-DRIVE-THRU](https://github.com/404kidwiz/TACO-BELL-DRIVE-THRU)** - Intelligent drive-thru ordering system
+- **[TACO-BELL-DRIVE-THRU](https://taco.404kidwiz.cloud/)** - Intelligent drive-thru ordering system
   - Streamlined customer ordering experience with voice recognition
   - Reduced order processing time by automating menu navigation
   - Enhanced operational efficiency through real-time order tracking
