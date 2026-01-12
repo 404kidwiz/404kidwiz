@@ -37,10 +37,9 @@ Currently, I'm building **WizPrompt Pro**, a production-ready AI-powered SaaS pl
    - Reduced order processing time by automating menu navigation
    - Enhanced operational efficiency through real-time order tracking
 
--- **[claude-agents-universal](https://github.com/404kidwiz/claude-agents-universal)** - Universal agent framework for Claude AI integration
-   - Building scalable agent architectures
-   - Exploring autonomous AI capabilities
-
+-- **[claude-supercode-skills](https://github.com/404kidwiz/claude-supercode-skills)** - 133 Agent Skills from Claude Code subagents   - Building scalable age  - Converted 133 Claude Code subagents to Anthropic Agent Skills format
+  - 100% quality compliance across 12 major domains
+  - Professional AI skill library for production use
 *Check out my repositories below for more projects!*
 
 ---
@@ -174,7 +173,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
   - Reduced order processing time by automating menu navigation
   - Enhanced operational efficiency through real-time order tracking
 
-- **[claude-agents-universal](https://github.com/404kidwiz/claude-agents-universal)** - Universal agent framework for Claude AI integration
-  - Building scalable agent architectures
-  - Exploring autonomous AI capabilities
-  
+- **[claude-supercode-skills](https://github.com/404kidwiz/claude-supercode-skills)** - 133 Agent Skills from Claude Code subagents  - Building scalable age  - Converted 133 Claude Code subagents to Anthropic Agent Skills format
+  - 100% quality compliance across 12 major domains
+  - Professional AI skill library for production use
